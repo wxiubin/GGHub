@@ -1,7 +1,7 @@
-import 'package:codehub/common/defination.dart';
-import 'package:codehub/ui/explore_add.dart';
-import 'package:codehub/ui/explore_option.dart';
-import 'package:codehub/ui/settings.dart';
+import 'package:gghub/common/defination.dart';
+import 'package:gghub/ui/explore_add.dart';
+import 'package:gghub/ui/explore_option.dart';
+import 'package:gghub/ui/settings.dart';
 import 'package:flutter/material.dart';
 
 class App extends StatefulWidget {

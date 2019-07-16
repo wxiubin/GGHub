@@ -24,9 +24,6 @@ class _DioHttpClientAdapter extends HttpClientAdapter {
       client.maxConnectionsPerHost = 10;
       if (!kReleaseMode) {
         client.badCertificateCallback = (cert, host, port) => true;
-        client.findProxy = (uri) {
-          return 'PROXY localhost:8888; DIRECT';
-        };
       }
     };
 

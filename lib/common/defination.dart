@@ -1,7 +1,7 @@
-import 'package:codehub/ui/explore.dart';
-import 'package:codehub/ui/news.dart';
-import 'package:codehub/ui/profile.dart';
-import 'package:codehub/ui/search.dart';
+import 'package:gghub/ui/explore.dart';
+import 'package:gghub/ui/news.dart';
+import 'package:gghub/ui/profile.dart';
+import 'package:gghub/ui/search.dart';
 import 'package:flutter/material.dart';
 
 enum TabItem { news, explore, search, profile }

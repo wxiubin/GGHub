@@ -1,4 +1,4 @@
-package com.wxiubin.codehub
+package com.wxiubin.gghub
 
 import android.os.Bundle
 

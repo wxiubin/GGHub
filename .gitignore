@@ -78,3 +78,6 @@ xcodebuild/
 # Xcode build
 xcodebuild/
 !/pubspec.lock
+
+# config
+**/gitignore.dart
